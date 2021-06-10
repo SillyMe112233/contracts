@@ -1,0 +1,28 @@
+{
+  "contracts": {},
+  "solidityLibs": {},
+  "proxies": {
+    "hardhat-project/Stonky": [
+      {
+        "address": "0xA231ca2A1e8F7a9FBD53d43B0aEE7Ff36d770423",
+        "kind": "NonProxy",
+        "bytecodeHash": "594781e88ae95018b105ef787db31bf54c1b6550a92cd73bcbc7070bfe58b413"
+      }
+    ],
+    "hardhat-project/StonkyChef": [
+      {
+        "address": "0xB8595A3C8F639dF4C155493b88c3eB3BB8870B6c",
+        "kind": "NonProxy",
+        "bytecodeHash": "089d56e6cf506f494f0e05f640881934656089a17af1a41f6024a49c51ea5a7b"
+      }
+    ],
+    "hardhat-project/StonkMoon": [
+      {
+        "address": "0x649499e649Ef761aa4FB4433806D720612eb5B81",
+        "kind": "NonProxy",
+        "bytecodeHash": "3f307ee353a9ab52505d4091451ec4c085957e954a20d7220a150ebebb78b3a0"
+      }
+    ]
+  },
+  "manifestVersion": "2.2"
+}
